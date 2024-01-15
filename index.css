@@ -1,0 +1,44 @@
+
+
+body{
+   margin:0;
+   
+   font-family: Arial, Helvetica, sans-serif;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+   
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  text-decoration:none;
+}
+
+
+div.p{
+  position: absolute;
+   color: white	;
+  top:80px;
+  left: 50px;
+  font-size: 250%;
+}
+div.q {
+position: absolute;
+  top:50px;
+  left: 50px;
+  color: orange;
+  font-family:Snell Roundhand, cursive;
+  font-size: 200%;
+}
+
+div.r{
+  position: absolute;
+  top:140px;
+  left: 50px;
+   color: orange;
+  font-size: 500%;
+}
+
